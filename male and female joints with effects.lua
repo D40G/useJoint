@@ -1,3 +1,6 @@
+--Please note this is for the QBCore Framework
+
+
 -- add above ["smokeweed"] in scenarios dpemotes/client/AnimationList.lua
 -- allows females to smoke a blunt
 
